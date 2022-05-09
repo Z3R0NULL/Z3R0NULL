@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align='center'>
+<img src="https://raw.githubusercontent.com/z3r01-null/z3r01-null/main/ZERO.png">
+</p>
 
-<!--
-**Z3R0NULL/Z3R0NULL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="https://instagram.com/z3r01_null"><img height="40" src="https://raw.githubusercontent.com/z3r01-null/z3r01-null/main/INSTA.png"></a>
+</p>
 
-Here are some ideas to get you started:
+### Hello, I'm Z3R0. <img src="https://raw.githubusercontent.com/z3r01-null/z3r01-null/main/WAVE.gif" width="30px">
+#### Bash Scripts Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img width="125" align='left' src="https://raw.githubusercontent.com/z3r01-null/z3r01-null/main/ZEROICON.png">
+</p>
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=vscode&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+<h1 align='left'>Loading...</h1>
