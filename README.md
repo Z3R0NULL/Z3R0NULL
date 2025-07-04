@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-<a href="https://instagram.com/z3r01_null"><img height="40" src="https://raw.githubusercontent.com/z3r01-null/z3r01-null/main/INSTA.png"></a>
+<a href="https://instagram.com/z3r01_null"><img height="40" src="https://img.shields.io/badge/INSTAGRAM-c0364f?style=for-the-badge&logo=Instagram&labelColor=000000&logoWidth=20"></a>
 </p>
 
 ### Hello, I'm Z3R0. <img src="https://raw.githubusercontent.com/z3r01-null/z3r01-null/main/WAVE.gif" width="30px">
